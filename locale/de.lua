@@ -74,6 +74,9 @@ local Translations = {
             },
         },
         dv = { help = 'Fahrzeug entfernen (Nur Admins)' },
+        dvall = { help = 'Alle Fahrzeuge löschen(Admin Only)' },
+        dvp = { help = 'Alle Peds löschen (Admin Only)' },
+        dvo = { help = 'Alle Objekte löschen (Admin Only)' },
         givemoney = {
             help = 'Gib jemandem Geld (Nur Admins)',
             params = {
